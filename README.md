@@ -1,7 +1,17 @@
-# Pawan Pratap
-
-**Software Engineer — Backend & Distributed Systems**  
-Focused on modular architecture, data modeling, enterprise systems, and developer tooling.
+<table>
+  <tr>
+    <td width="130" align="center" valign="middle">
+      <img src="profile.png" width="115" style="border-radius: 50%; display: block;" alt="Pawan Pratap" />
+    </td>
+    <td valign="middle">
+      <h1 style="margin: 0; border-bottom: none;">Pawan Pratap</h1>
+      <p style="margin: 4px 0 0 0; color: #586069;">
+        <strong>Software Engineer — Backend &amp; Distributed Systems</strong><br>
+        Modular Architecture &bull; Relational Data Modeling &bull; Enterprise Systems &bull; Cloud &amp; CLI Tooling
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
